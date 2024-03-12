@@ -1,0 +1,182 @@
+[
+    {
+        "monitor_name": "AV Disabled",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 12000,
+        "rollout": "All Users",
+        "last_modified": "5 Months Ago"
+    },
+    {
+        "monitor_name": "Engine Failure",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Generic Plugin",
+        "frequency": 45000,
+        "rollout": "Custom",
+        "last_modified": "2 Years Ago"
+    },
+    {
+        "monitor_name": "Battery Wear",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Dumpanalyzer",
+        "frequency": 6000,
+        "rollout": "All Users",
+        "last_modified": "8 Months Ago"
+    },
+    {
+        "monitor_name": "Battery Wear Test",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Wmi",
+        "frequency": 8000,
+        "rollout": "Custom",
+        "last_modified": "10 Days Ago"
+    },
+    {
+        "monitor_name": "Crash",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 2000,
+        "rollout": "All Users",
+        "last_modified": "1 Year Ago"
+    },
+    {
+        "monitor_name": "Wi-Fi Failed To Connect",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Wmi",
+        "frequency": 10000,
+        "rollout": "All Users",
+        "last_modified": "7 Months Ago"
+    },
+    {
+        "monitor_name": "Wi-Fi Security Failed",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Dumpanalyzer",
+        "frequency": 3000,
+        "rollout": "Custom",
+        "last_modified": "3 Days Ago"
+    },
+    {
+        "monitor_name": "Monitor 8",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 18000,
+        "rollout": "All Users",
+        "last_modified": "6 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 9",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Wmi",
+        "frequency": 9000,
+        "rollout": "Custom",
+        "last_modified": "4 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 10",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 5000,
+        "rollout": "All Users",
+        "last_modified": "9 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 11",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Generic Plugin",
+        "frequency": 15000,
+        "rollout": "Custom",
+        "last_modified": "8 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 12",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Dumpanalyzer",
+        "frequency": 22000,
+        "rollout": "All Users",
+        "last_modified": "3 Years Ago"
+    },
+    {
+        "monitor_name": "Monitor 13",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Wmi",
+        "frequency": 11000,
+        "rollout": "Custom",
+        "last_modified": "2 Days Ago"
+    },
+    {
+        "monitor_name": "Monitor 14",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 4000,
+        "rollout": "All Users",
+        "last_modified": "6 Years Ago"
+    },
+    {
+        "monitor_name": "Monitor 15",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Generic Plugin",
+        "frequency": 14000,
+        "rollout": "Custom",
+        "last_modified": "7 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 16",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Dumpanalyzer",
+        "frequency": 17000,
+        "rollout": "All Users",
+        "last_modified": "10 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 17",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Wmi",
+        "frequency": 13000,
+        "rollout": "Custom",
+        "last_modified": "3 Months Ago"
+    },
+    {
+        "monitor_name": "Monitor 18",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Event Log",
+        "frequency": 7000,
+        "rollout": "All Users",
+        "last_modified": "1 Month Ago"
+    },
+    {
+        "monitor_name": "Monitor 19",
+        "description": "Random description",
+        "monitor_category": "Custom Data",
+        "monitor_type": "Generic Plugin",
+        "frequency": 16000,
+        "rollout": "Custom",
+        "last_modified": "4 Years Ago"
+    },
+    {
+        "monitor_name": "Monitor 20",
+        "description": "Random description",
+        "monitor_category": "Device Health",
+        "monitor_type": "Dumpanalyzer",
+        "frequency": 25000,
+        "rollout": "All Users",
+        "last_modified": "6 Days Ago"
+    }
+]
