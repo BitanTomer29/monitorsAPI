@@ -1,6 +1,7 @@
 [
     {
-        "monitor_name": "AV Disabled",
+        "id": 1,
+        "monitor_name": "AV Disabled2",
         "description": "Random description",
         "monitor_category": "Device Health",
         "monitor_type": "Event Log",
@@ -9,6 +10,7 @@
         "last_modified": "5 Months Ago"
     },
     {
+        "id": 2,
         "monitor_name": "Engine Failure",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -18,6 +20,7 @@
         "last_modified": "2 Years Ago"
     },
     {
+        "id": 3,
         "monitor_name": "Battery Wear",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -27,6 +30,7 @@
         "last_modified": "8 Months Ago"
     },
     {
+        "id": 4,
         "monitor_name": "Battery Wear Test",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -36,6 +40,7 @@
         "last_modified": "10 Days Ago"
     },
     {
+        "id": 5,
         "monitor_name": "Crash",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -45,6 +50,7 @@
         "last_modified": "1 Year Ago"
     },
     {
+        "id": 6,
         "monitor_name": "Wi-Fi Failed To Connect",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -54,6 +60,7 @@
         "last_modified": "7 Months Ago"
     },
     {
+        "id": 7,
         "monitor_name": "Wi-Fi Security Failed",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -63,6 +70,7 @@
         "last_modified": "3 Days Ago"
     },
     {
+        "id": 8,
         "monitor_name": "Monitor 8",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -72,6 +80,7 @@
         "last_modified": "6 Months Ago"
     },
     {
+        "id": 9,
         "monitor_name": "Monitor 9",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -81,6 +90,7 @@
         "last_modified": "4 Months Ago"
     },
     {
+        "id": 10,
         "monitor_name": "Monitor 10",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -90,6 +100,7 @@
         "last_modified": "9 Months Ago"
     },
     {
+        "id": 11,
         "monitor_name": "Monitor 11",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -99,6 +110,7 @@
         "last_modified": "8 Months Ago"
     },
     {
+        "id": 12,
         "monitor_name": "Monitor 12",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -108,6 +120,7 @@
         "last_modified": "3 Years Ago"
     },
     {
+        "id": 13,
         "monitor_name": "Monitor 13",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -117,6 +130,7 @@
         "last_modified": "2 Days Ago"
     },
     {
+        "id": 14,
         "monitor_name": "Monitor 14",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -126,6 +140,7 @@
         "last_modified": "6 Years Ago"
     },
     {
+        "id": 15,
         "monitor_name": "Monitor 15",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -135,6 +150,7 @@
         "last_modified": "7 Months Ago"
     },
     {
+        "id": 16,
         "monitor_name": "Monitor 16",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -144,6 +160,7 @@
         "last_modified": "10 Months Ago"
     },
     {
+        "id": 17,
         "monitor_name": "Monitor 17",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -153,6 +170,7 @@
         "last_modified": "3 Months Ago"
     },
     {
+        "id": 18,
         "monitor_name": "Monitor 18",
         "description": "Random description",
         "monitor_category": "Device Health",
@@ -162,6 +180,7 @@
         "last_modified": "1 Month Ago"
     },
     {
+        "id": 19,
         "monitor_name": "Monitor 19",
         "description": "Random description",
         "monitor_category": "Custom Data",
@@ -171,6 +190,7 @@
         "last_modified": "4 Years Ago"
     },
     {
+        "id": 20,
         "monitor_name": "Monitor 20",
         "description": "Random description",
         "monitor_category": "Device Health",
